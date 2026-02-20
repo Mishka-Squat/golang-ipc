@@ -1,4 +1,4 @@
-module github.com/igadmg/golang-ipc
+module github.com/Mishka-Squat/golang-ipc
 
 go 1.25.0
 
